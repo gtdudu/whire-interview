@@ -24,6 +24,8 @@ To start your project just run
 grunt
 ```
 
+App is running on: http://localhost:3000/
+
 Grunt is setup to:
 - launch mongod
 - check that all js files respect best code practices with jshint
