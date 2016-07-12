@@ -2,10 +2,11 @@
 
 ## Setting it up
 
-Make sure you have mongo, node and grunt-cli installed then run
+Make sure you have mongo, node and grunt-cli installed then run (https://github.com/gruntjs/grunt-cli)
+
 ```
-git clone <repo-path>
-cd <repo-path>
+git clone https://github.com/gtdudu/whire-interview.git
+cd whire-interview
 npm install
 ```
 
