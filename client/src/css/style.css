@@ -1,0 +1,14 @@
+.new-bg {
+  font-size: 20px;
+  background-color: yellow !important;
+}
+
+body {
+  background-color: #fefefe !important;
+}
+.home {
+  height: 100%;
+}
+.selected {
+  background-color: yellow;
+}
